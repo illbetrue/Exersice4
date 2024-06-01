@@ -1,0 +1,223 @@
+{
+  "cookies": [
+    {
+      "name": "route",
+      "value": "6fd7227553d42fc78880da5f3932eef9",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "renderid",
+      "value": "publisher1",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1711576635913.1110694147",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1719352635,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "f96bdf00ec8411eeae8ef77bb0cc9ee2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1711663035,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "f96bf410ec8411ee9888e1845794e679",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1745272635,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1377459360.1711576636",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1719352636,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.506776975.1711576636",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1746136636.035927,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1711576635.1.0.1711576635.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1746136636.044173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:030-GZP-996&token:_mch-epam.com-1711576636107-26366",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1746136636.104018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1711577536.193275,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "46d98ebe-89f9-4db7-915f-bb97a7fe71e9",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1719352636.95275,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&17940fa4-5334-4d4b-837d-6f0cfe65a55f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1743112636.95286,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST09:s=O:r=O:a=O:p=O:g=2766:u=1:x=1:i=1711576636:t=1711663036:v=2:sig=AQG8L7XkRi9gJu5AhGmbGOqykpnr_6Dz\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1711663036.260188,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLlyXTHlq-X7QAAAY6B6t6LGG3pnafU12N3bxEn95zZLWXXxtB9QFmt-e7Wkqab1RXyoBuOE0iWKQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1714168636.4773,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQKxoqzrpO9p5AAAAY6B6t6LtiI1fFRdlSfVSjsymxp1Srxxy33gJKV9ew3sJilv7n5s5UT_S5GizX7zS5mlsQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1714168636.477323,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20240327215717ce9fb2bf-a07a-4f9d-8a16-d00e66a473f3AQEflFQIFc_7qv0CaPTUHW-pu_SCLlbl\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1743112636.732795,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-03-27T21:57:17.508Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1743112637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Wed+Mar+27+2024+23%3A57%3A17+GMT%2B0200+(Eastern+European+Standard+Time)&version=6.36.0&isIABGlobal=false&hosts=&consentId=85d1a3b6-f9af-4ef9-ae80-785869c2160b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1743112637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.epam.com",
+      "localStorage": [
+        {
+          "name": "ContextHubPersistence",
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280,\"height\":720},\"devicePixelRatio\":1,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280,\"height\":720},\"percentageUsage\":1},\"browser\":{\"version\":\"537.36\",\"family\":\"Safari\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/123.0.6312.4 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"windows\"},\"isMobile\":true,\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"year\":2024,\"month\":3,\"day\":27,\"hour\":23,\"minutes\":57},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"ua-l10n-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/ua-l10n-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/ua-l10n-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1711576634613,\"raw-response\":{}},\"location\":{\"continent\":\"Europe\",\"continentCode\":\"EU\",\"country\":\"Ukraine\",\"countryCode\":\"UA\",\"region\":\"Kyiv City\",\"regionCode\":\"30\",\"city\":\"Kyiv\",\"postalCode\":\"04053\",\"latitude\":\"50.45800\",\"longitude\":\"30.53030\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"UA\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Thu, 28 Mar 2024 21:57:15 GMT"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1711576635910"
+        },
+        {
+          "name": "_uetvid",
+          "value": "f96bf410ec8411ee9888e1845794e679"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Mon, 21 Apr 2025 21:57:15 GMT"
+        },
+        {
+          "name": "li_adsId",
+          "value": "4de911b5-874b-49dd-9d11-5f1615c0a25b"
+        },
+        {
+          "name": "_uetsid",
+          "value": "f96bdf00ec8411eeae8ef77bb0cc9ee2"
+        }
+      ]
+    }
+  ]
+}
